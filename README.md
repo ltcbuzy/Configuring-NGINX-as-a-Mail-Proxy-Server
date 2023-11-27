@@ -1,4 +1,4 @@
-# Configuring-NGINX-as-a-Mail-Proxy-Server
+# Configuring NGINX as a Mail Proxy Server
 [NGINX]([v](https://www.nginx.com/)) is a powerful web server and reverse proxy server that is widely used for handling [targeted web traffic](https://targeted-visitors.com/product/buy-targeted-traffic/). However, as of my last knowledge update in January 2022, NGINX does not have native capabilities for handling mail protocols such as SMTP or IMAP. NGINX is primarily designed for HTTP and HTTPS protocols.
 
 For mail proxy functionality, you would typically use a dedicated mail server software such as Postfix, Exim, or Microsoft Exchange. These mail servers are specifically designed to handle email traffic and implement protocols like SMTP and IMAP.
